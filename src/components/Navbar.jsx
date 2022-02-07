@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar, Container, Nav } from 'react-bootstrap';
-import { MenuElements } from './MenuItems';
+import { MenuElements } from './MenuElements';
 
 class Navbar extends React.Component {
   constructor(props) {
